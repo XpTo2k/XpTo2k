@@ -48,7 +48,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/XpTo2k/XpTo2k/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/XpTo2k/XpTo2k/output/snake.svg" alt="Snake animation" />
 
 ###
 

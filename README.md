@@ -48,10 +48,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/XpTo2k/XpTo2k/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/XpTo2k/count.svg?"  />
 </div>

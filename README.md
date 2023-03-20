@@ -1,5 +1,3 @@
-<img align="right" height="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-
 <h1 align="center">Hi 👋, I'm Fábio</h1>
 <h3 align="center">printf("Hello world 👋"\n);</h3>
 

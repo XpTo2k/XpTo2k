@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xpto2k&label=Profile%20views&color=0e75b6&style=flat" alt="xpto2k" /> </p>
 
-- 🔭 I’m currently working on **my portfolio page**
+- 🔭 I’m currently working on **awesome apps**
 
 - 🌱 I’m currently learning **DevOps**
 

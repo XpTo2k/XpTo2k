@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **awesome apps**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **AWS Cloud Practitioner CLF-C02**
 
 - 👯 I’m looking to collaborate on **something that makes difference**
 

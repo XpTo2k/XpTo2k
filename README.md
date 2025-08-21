@@ -11,11 +11,6 @@
 
 - ⚡ Fun fact **I quit my middle management job in retail to become a self taught programmer!**
 
-<a href="https://github.com/XpTo2k/GitHub-Language-Stats">
-<img src="https://github.com/XpTo2k/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/XpTo2k/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/xpto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xpto" height="30" width="40" /></a>
